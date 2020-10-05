@@ -1,9 +1,10 @@
-### Hi there 👋
-
+## Hi, I'm Francinette Borges :blush:
 <!--
-**borgesfran/borgesfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**borgesfran/borgesfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+:woman_student: Bachelor of Information Systems <br/>
+:woman_technologist: Software Developer at [Pulse](https://www.linkedin.com/company/pulseoficial)
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
