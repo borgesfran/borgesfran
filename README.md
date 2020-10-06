@@ -19,10 +19,10 @@
 ### :octocat: Stats
 <p align="center">
 <a href="https://github.com/borgesfran/github-readme-stats"> 
-![Francinette's github stats]<img src="https://github-readme-stats.vercel.app/api?username=borgesfran&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=borgesfran&show_icons=true" width="45%"/>
 </a>
 <a href="https://github.com/borgesfran/github-readme-stats"> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesfran&layout=compact)](https://github.com/borgesfran/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesfran&layout=compact" width="37.7%"/>
 </a>
  </p>
 
