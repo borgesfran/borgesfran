@@ -17,7 +17,7 @@
 <hr/>
 
 ### :octocat: Stats
-<p align="left">
+<p align="center">
 <a href="https://github.com/borgesfran/github-readme-stats"> 
 <img src="https://github-readme-stats.vercel.app/api?username=borgesfran&show_icons=true" width="45%"/>
 </a>
