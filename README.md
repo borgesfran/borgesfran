@@ -1,8 +1,8 @@
 ## Hi, I'm Francinette Borges <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 **borgesfran/borgesfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-:woman_student: Bachelor of Information Systems <br/>
-:woman_technologist: Software Developer at [Pulse](https://www.linkedin.com/company/pulseoficial)
+:woman_student: <i>Bachelor of Information Systems</i> <br/>
+:woman_technologist: <i>Software Developer at [Pulse](https://www.linkedin.com/company/pulseoficial)</i>
 
 #### :mailbox_with_no_mail: How to reach me:
 [<img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://www.encurtador.com.br/duV14)
