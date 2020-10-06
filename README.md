@@ -4,9 +4,12 @@
 :woman_student: Bachelor of Information Systems <br/>
 :woman_technologist: Software Developer at [Pulse](https://www.linkedin.com/company/pulseoficial)
 
-### :mailbox_with_no_mail: How to reach me:
+#### :mailbox_with_no_mail: How to reach me:
 [<img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://www.encurtador.com.br/duV14)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/francinetteborges/)
+[<img src="https://img.shields.io/badge/wordpress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>](http://francinetteborges.wordpress.com/)
+
+#### :books: Languages:
 
 
 
