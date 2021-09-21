@@ -42,8 +42,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesfran&layout=compact" width="37.7%"/>
   </a>
  </p>
-
-  ![Snake animation](https://github.com/borgesfran/borgesfran/blob/output/github-contribution-grid-snake.svg)
  
  </div>
 
