@@ -2,7 +2,7 @@
 <!--
 **borgesfran/borgesfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 :woman_student: <i>Bachelor of Information Systems</i> <br/>
-:woman_technologist: <i>Software Developer at [Pulse](https://www.linkedin.com/company/pulseoficial)</i>
+:woman_technologist: <i>Software Developer</i>
 
 #### :mailbox_with_no_mail: How to reach me:
 <div>
